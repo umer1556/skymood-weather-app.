@@ -16,3 +16,5 @@ SkyMood is a functional weather application that provides real-time data, 5-day 
 - **Interactive Charts:** Visual temperature trends for the next 5 days.
 - **Data Export:** Users can download forecast data as a CSV for offline analysis.
 - **Mood Logic:** Contextual vibes based on weather conditions (Clear, Rain, etc.).
+
+This project was developed during Module 2 of the HEC Generative AI Training (Cohort 2) organized by Pak Angels.
