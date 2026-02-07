@@ -17,4 +17,9 @@ SkyMood is a functional weather application that provides real-time data, 5-day 
 - **Data Export:** Users can download forecast data as a CSV for offline analysis.
 - **Mood Logic:** Contextual vibes based on weather conditions (Clear, Rain, etc.).
 
+**Clone the repo:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/MathWhiz.git](https://github.com/YOUR_USERNAME/MathWhiz.git)
+   cd MathWhiz
+
 This project was developed during Module 2 of the HEC Generative AI Training (Cohort 2) organized by Pak Angels.
