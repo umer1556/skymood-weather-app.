@@ -20,6 +20,5 @@ SkyMood is a functional weather application that provides real-time data, 5-day 
 **Clone the repo:**
    ```bash
    git clone [[https://github.com/YOUR_USERNAME/MathWhiz.git](https://github.com/YOUR_USERNAME/MathWhiz.git)](https://github.com/umer1556/skymood-weather-app..git)
-
-
+```
 This project was developed during Module 2 of the HEC Generative AI Training (Cohort 2) organized by Pak Angels.
